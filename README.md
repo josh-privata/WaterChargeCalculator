@@ -21,6 +21,7 @@
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [License](#license)
+
 ## Synopsis
 The problem put forward was to design a program that could calculate 
 a residents water usage based on a tier pricing schedule. It was required 
@@ -32,7 +33,9 @@ residents calculated charge.
 The program was required to use the given classes of WaterChargeCalculator 
 and WaterChargeCalculatorTest. Modules beginCharge, calculateCharge and 
 displayInfo were to be used in the final code.
+
 ## Install
+
 First, make a directory to install the files to and change to that directory using :
 ```bash
  mkdir watercharge && cd watercharge
@@ -42,6 +45,7 @@ Then all you need to do is clone the project from github into the directory by u
  git clone https://github.com/josh-privata/WaterChargeCalculator.git
 ```
 ## Usage
+
 ##### Note:  [Java Runtime](https://java.com/en/download/) is required to run the preceding commands.
 Initially the program needs to be compiled. After you have copied the *.java files to a directory, run the command :
 ```bash
@@ -51,8 +55,11 @@ Then run the program using the command :
 ```bash
 $ java WaterChargeCalculatorTest
 ```
+
 ## Screenshots
+
 <p align="center"><img src="https://cloud.githubusercontent.com/assets/5771200/19331299/738f1c90-9127-11e6-8d85-67b474ded730.jpg" width="75%" alt="Screenshot"></p>
 
 ## License
+
 [BSD](LICENSE) Copyright (c) 2016 [Josh Cannons](http://joshcannons.com).
